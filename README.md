@@ -17,9 +17,9 @@ paper1:
    - 216
    title: Big Data Analytics in Sports - Track and Field
    abstract: This paper covers the impact that Big Data has and could have on the sport of track and field.
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid216/paper1/paper1.pdf
    type: latex
-   status: In Progress
+   status: in progress
 ```
    
 # Paper 2
@@ -34,7 +34,7 @@ paper2:
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
    type: word
-   status: Not Started
+   status: not started
 ```
 
 # Project 
@@ -54,6 +54,6 @@ paper2:
    abstract: This paper showcases tis and that and the other 
    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
    type: latex
-   status: Not Started
+   status: not started
 ```
    
