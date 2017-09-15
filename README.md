@@ -17,7 +17,7 @@ paper1:
    - 216
    title: Big Data Analytics in Sports - Track and Field
    abstract: This paper covers the impact that Big Data has and could have on the sport of track and field.
-   url: https://github.com/bigdata-i523/hid216/paper1/paper1.pdf
+   url: 
    type: latex
    status: in progress
 ```
