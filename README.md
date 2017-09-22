@@ -30,9 +30,9 @@ paper2:
    - Millard, Mathew
    hid:
    - 216
-   title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+   title: n/a
+   abstract: n/a
+   url: n/a
    type: word
    status: not started
 ```
@@ -50,9 +50,9 @@ paper2:
    - Millard, Mathew
    hid:
    - 216
-   title: Benchmarking a BigData Docker deployment
-   abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+   title: n/a
+   abstract: n/a
+   url: n/a
    type: latex
    status: not started
 ```
