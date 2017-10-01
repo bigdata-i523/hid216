@@ -20,6 +20,7 @@ paper1:
    url: https://github.com/bigdata-i523/hid216/tree/master/paper1
    type: latex
    status: in progress
+   chapter: Sports
 ```
    
 # Paper 2
