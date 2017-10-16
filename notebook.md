@@ -9,7 +9,7 @@
 
 # Theory
 
-* Watching and videos from Theory Introduction section
+* Watching videos from Theory Introduction section
 
 # Practice
 
