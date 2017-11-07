@@ -23,13 +23,13 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid216/paper1/paper1.pdf
 paper2:
-    review: Nov 6 2017
-    abstract: n/a
+    review: Nov 8 2017
+    abstract: TBD
     author:
-        - Millard, Mathew
+        - Millard, Mathew; Jones, Gabriel
     hid:
-        - 216
-    status: not started
-    title: n/a
+        - 216, 104
+    status: 95% Nov 8 2017
+    title: "Big Data = Big Bias? The Fallibility of Big Data"
     type: latex
-    url: n/a
+    url: https://github.com/bigdata-i523/hid216/paper2/paper2.pdf
