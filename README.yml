@@ -18,18 +18,18 @@ paper1:
     chapter: Sports
     hid:
         - 216
-    status: 60% Nov 08 17
+    status: 70% Nov 10 17
     title: Big Data Analytics in Sports - Track and Field
     type: latex
     url: https://github.com/bigdata-i523/hid216/paper1/paper1.pdf
 paper2:
-    review: Nov 8 2017
+    review: Nov 9 2017
     abstract: TBD
     author:
         - Millard, Mathew; Jones, Gabriel
     hid:
         - 216, 104
-    status: 95% Nov 8 2017
+    status: 95% Nov 9 2017
     title: "Big Data = Big Bias? The Fallibility of Big Data"
     type: latex
     url: https://github.com/bigdata-i523/hid216/paper2/paper2.pdf
