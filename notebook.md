@@ -22,6 +22,8 @@
 * 09/06/17 Started research for Paper 1
 * 09/16/17 Installed Jabref
 * 09/22/17 Added important links for Paper 1
+* 10/27/17 Started research for Paper 2
+* 11/10/17 Finished working on Paper 2
 
 # Meetings
 
@@ -33,6 +35,9 @@
 * 09/29/17 Meeting: Attended class meeting for residential students
 * 10/13/17 Meeting: Attended class meeting for residential students
 * 10/20/17 Meeting: Attended class meeting for residential students
+* 10/27/17 Meeting: Attended Class meeting for residential students
+* 11/03/17 Meeting: Missed Class meeting for residential students due to a fall retreat for church
+* 11/10/17 Meeting: Attended Class meeting for residential students
 
 # Location
 
