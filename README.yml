@@ -45,20 +45,23 @@ paper2:
         principles of transparency, clear and appropriate objective definition, and 
         self-correcting feedback mechanisms.
     author:
-        - Millard, Mathew; Jones, Gabriel
+        - Millard, Mathew
+        - Jones, Gabriel
     hid:
-        - 216, 104
+        - 216
+        - 104
     status: 100% Nov 10 2017
     title: "Big Data = Big Bias? The Fallibility of Big Data"
     type: latex
     url: https://github.com/bigdata-i523/hid104/paper2/paper2.pdf
     chapter: Lifestyle
 project:
+    duplicate: True
     abstract: >
         Since its origins, Big Data has promised an unimaginable
         potential to revolutionize the world. Scholars have wisely
         noted that it represents a paradigmatic shift from
-        conventional norms of data, but the public has quickly latched
+        conventiona    duplicate: Truel norms of data, but the public has quickly latched
         onto provocative but unrealistic narratives that deify big
         data as omniscient, infallible, and devoid of bias. Confiding
         in such narratives diminishes the integrity of credible
@@ -95,9 +98,11 @@ project:
         exhibited. We discuss what this could mean for future studies of 
         potential algorithmic bias in Google.
     author:
-        - Jones, Gabriel and Millard, Mathew
+        - Jones, Gabriel
+        - Millard, Mathew
     hid:
-        - 104, 216
+        - 104
+        - 216
     status: 90%
     title: Big Bias? An Analysis of Google Search Suggestions
     type: report
