@@ -9,7 +9,9 @@
 
 # Theory
 
-* Watching videos from Theory Introduction section
+* 09/07/17 Watched videos from Theory Introduction section
+* 09/20/17 Watched videos in the Theory Overview section
+* 11/07/17 Watched videos in Web Search and Text Mining 1 Topic
 
 # Practice
 
@@ -24,7 +26,15 @@
 * 09/22/17 Added important links for Paper 1
 * 10/27/17 Started research for Paper 2
 * 11/10/17 Finished working on Paper 2
+* 11/10/17 Added citations and uploaded paper 2
 * 11/25/17 Finished working on Paper 1
+* 11/26/17 Researched data for final project
+* 12/01/17 Implemented parsing functions for final project
+* 12/02/17 Wrote majority of code for final project
+* 12/05/17 Made significant progress in case studies portion of final project
+* 12/10/17 Finished additional case studies portion of final project
+* 12/10/17 Finished code for final project and began Jupyter notebook
+* 12/11/17 Completed jupyter notebook, revised code, made significant writing progress, and uploaded final project
 
 # Meetings
 
@@ -40,6 +50,7 @@
 * 11/03/17 Meeting: Missed Class meeting for residential students due to a fall retreat for church
 * 11/10/17 Meeting: Attended Class meeting for residential students
 * 11/17/17 Meeting: Attended Class meeting for residential students
+* 12/01/17 Meeting: Attended Class meeting for residential students
 
 # Location
 
